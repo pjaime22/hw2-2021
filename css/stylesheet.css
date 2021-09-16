@@ -36,14 +36,16 @@ p{
 #red{
     background: #FF0000;
     text-align: right;
-    height: 150px;
+    max-height: fit-content;
+    min-height:150px;
     padding: 25px;
 }
 
 #blue{
     background: #0000FF;
     text-align: left;
-    height: 150px;
+    max-height: fit-content;
+    min-height:150px;
     padding: 25px;
 }
 
@@ -51,19 +53,21 @@ p{
     background: #FFFF00;
     color: #000000;
     text-align: right;
-    height: 150px;
+    max-height: fit-content;
+    min-height:150px;
     padding: 25px;
 }
 
 #green{
     background: #00FF00;
     text-align: left;
-    height: 150px;
+    max-height: fit-content;
+    min-height:150px;
     padding: 25px;
 }
 
 footer{
     text-align: center;
-    padding-bottom: 10px;
     padding-right: 10px;
+    padding-bottom: 10px;
 }

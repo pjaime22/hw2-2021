@@ -28,6 +28,7 @@ h2{
     text-shadow: #808080 4px 4px 2px;
 }
 
+
 p{
     font-size: 24px;
     padding-top: 15px;
@@ -56,6 +57,9 @@ p{
     max-height: fit-content;
     min-height:150px;
     padding: 25px;
+
+
+
 }
 
 #green{
@@ -66,7 +70,7 @@ p{
     padding: 25px;
 }
 
-footer{
+footer p{
     text-align: center;
     padding-right: 10px;
     padding-bottom: 10px;
